@@ -1,3 +1,5 @@
+// © Wilenty, https://wilenty.wixsite.com/SoftwareByWilenty/inno-setup-xp-ee-script-studio-port
+
 [files]
 Source: "NSudoAPI.dll"; DestDir: "{tmp}"; DestName: "API.dll"; Flags: DontCopy IgnoreVersion
 
